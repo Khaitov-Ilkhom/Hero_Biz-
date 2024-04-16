@@ -1,0 +1,180 @@
+
+.button_her {
+    width: 150px;
+    border-radius: 8px;
+    background-color: #0EA2BD;
+    color: #ffffff;
+    font-size: 18px;
+}
+.button_he {
+    position: relative;
+    top: -36px;
+    border-radius: 8px;
+    background-color: #0EA2BD;
+    color: #ffffff;
+    font-size: 18px;
+}
+.button_he:hover {
+    background-color: #ffffff;
+    color: #0EA2BD;
+    border: 2px solid #0EA2BD;
+}
+.button_hh {
+    width: 150px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #0EA2BD;
+    font-size: 18px;
+    border: 1px solid #0EA2BD;
+    cursor: pointer;
+}
+.button_hh:hover {
+    background-color: #0EA2BD;
+    color: #ffffff;
+}
+.button_her:hover {
+    background-color: rgb(8, 199, 199);
+    color: #ffffff;
+}
+.button_hero {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(74, 74, 74);
+    font-size: 24px;
+}
+.button_hero:hover {
+    color: #0EA2BD;
+}
+/*  */
+.shadow1:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.svg_style {
+    color: #0EA2BD;
+    margin-left: 20px;
+}
+.scale_lorem:hover div {
+    transform: scale(1.1);
+}
+.scale_lorem div {
+    transition: all 0.5s ease 0s;
+}
+/*  */
+.backgroud_c {
+    background-color: #f3f5f9;
+}
+/*  */
+.all_collapse {
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+.all_collapse:hover {
+    background-color: #0EA2BD;
+    color: #ffffff;
+}
+.all_collapse a {
+    border: none;
+}
+/*  */
+.h_color {
+    color: #404C58;
+}
+.in-svg svg {
+    color: #0EA2BD;
+}
+/*  */
+.services_card:hover .img_services img {
+    transform: scale(1.1);
+}
+.img_services img {
+    transition: all 0.5s ease 0s;
+}
+.img_card {
+    position: relative;
+    top: -100px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+/*  */
+.carousel_background {
+    height: 450px;
+    background-image: url("/img/new-york-5185104_640.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.corousel_card img {
+    width: 100px;
+}
+.all_star {
+    color: gold;
+}
+/* pricing */
+.card_body:hover {
+    border: 3px solid #0EA2BD;
+}
+.card_body:hover img {
+    opacity: 75%;
+}
+/*  */
+.card_text_line {
+    text-decoration: none;
+}
+.card_hov {
+    border: none;
+    overflow: hidden;
+}
+.card_hov:hover h5 {
+    color: #0EA2BD;
+}
+.card_hov img {
+    transition: all 0.5s ease 0s;
+}
+.card_hov:hover img {
+    transform: scale(1.1);
+}
+/* footer */
+.footer {
+    background-color: #526376;
+}
+.footer_text {
+    margin: 0.5rem;
+}
+.footer_text a {
+    text-decoration: none;
+    color: #a4a5a7;
+}
+.footer_text a:hover {
+    color: #ffffff;
+}
+.footer_bottom {
+    background-color: #404C58;
+}
+.credits:hover a {
+    color: #22c8e6;
+}
+.footer_link {
+    text-decoration: none;
+    color: #0EA2BD;
+}
+.footer_lin {
+    text-decoration: none;
+    background-color: #526376;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.footer_lin:hover {
+    background-color: #0EA2BD;
+}
+.btn_footer {
+    background-color: #0EA2BD;
+    color: #ffffff;
+}
+.btn_footer:hover {
+    background-color: #22c8e6;
+    color: #ffffff;
+}
+.font_size p {
+    font-size: 14px;
+}
